@@ -1,4 +1,3 @@
-<style>
 .particle,
 .particle:after {
   background: transparent;
@@ -92,4 +91,3 @@
   color: #fff;
   z-index: 2;
 }
-</style>
